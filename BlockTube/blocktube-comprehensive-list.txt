@@ -1,3 +1,7 @@
+// Big thanks to https://github.com/ptruser/BlockTube-list
+// and https://github.com/nijikasaiko/South-Korea-Youtube-Blocklist
+// A huge portion of URLs to block were taken from these repositories.
+
 // Ошуительное Хоу
 UCSoYSTOt1g_Vdo8xCJeQpHw
 
