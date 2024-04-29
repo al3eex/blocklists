@@ -18,7 +18,7 @@ Copy [this link](https://raw.githubusercontent.com/al3eex/blocklists/main/uBlack
 
 #### Channel ID
 
-Copy **the contents** (not the link) of [this file](https://raw.githubusercontent.com/al3eex/blocklists/main/BlockTube/blocktube-comprehensive-list.txt) and paste them into `Channel ID` section of BlockTube settings.
+Copy **the contents** (not the link) of [this file](https://raw.githubusercontent.com/al3eex/blocklists/main/BlockTube/blocktube-comprehensive-channel-id-list.txt) and paste them into `Channel ID` section of BlockTube settings.
 
 #### Video Title
 

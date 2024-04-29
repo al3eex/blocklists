@@ -16,7 +16,7 @@
 
 #### Channel ID
 
-Скопируйте **содержимое** (не ссылку) [этого файла](https://raw.githubusercontent.com/al3eex/blocklists/main/BlockTube/blocktube-comprehensive-list.txt) и вставьте его в раздел `Channel ID` в настройках BlockTube.
+Скопируйте **содержимое** (не ссылку) [этого файла](https://raw.githubusercontent.com/al3eex/blocklists/main/BlockTube/blocktube-comprehensive-channel-id-list.txt) и вставьте его в раздел `Channel ID` в настройках BlockTube.
 
 #### Video Title
 
