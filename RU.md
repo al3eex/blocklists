@@ -14,7 +14,13 @@
 
 ### BlockTube
 
-Скопируйте **содержание** (не ссылку) [этого файла](https://raw.githubusercontent.com/al3eex/blocklists/main/BlockTube/blocktube-comprehensive-list.txt) и вставьте в секцию `Channel ID` в настройках расширения BlockTube.
+#### Channel ID
+
+Скопируйте **содержимое** (не ссылку) [этого file](https://raw.githubusercontent.com/al3eex/blocklists/main/BlockTube/blocktube-comprehensive-list.txt) и вставьте его в раздел "Идентификатор канала" в настройках BlockTube.
+
+#### Video Title
+
+Скопируйте **содержимое** (не ссылку) [этого file](https://raw.githubusercontent.com/al3eex/blocklists/main/BlockTube/blocktube-video-titles-list.txt) и вставьте его в раздел "Название видео" в настройках BlockTube.
 
 ## Что блокируется
 
@@ -24,4 +30,4 @@
 
 ### В BlockTube
 
-"Контент" вызывающий разжижение мозгов: футбол, minecraft, обзоры на автомобили, обзоры на технику, игровые блогеры, политические блогеры, политическая пропаганда (вне зависимости от стороны, я просто не хочу её видеть).
+"Контент" вызывающий разжижение мозгов: футбол, Minecraft, обзоры на автомобили, обзоры на технику, игровые блогеры, политические блогеры, политическая пропаганда (вне зависимости от стороны, я просто не хочу её видеть).
