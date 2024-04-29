@@ -1,5 +1,5 @@
 # Opinionated (!!!) blocklist for uBlacklist
-# This list was made in an effort to block major news websites.
+# This list was made in an effort to block major news websites disinfo and propaganda. (so basically major news websites)
 # Websites that are considered "major": CNN, Washington Post, The New Yorker, New York Times, etc.
 # Websites that are considered "annoying": Buzzfeed and similar ones.
 # Some major websites (e.g. Bloomberg) are not blocked because they can host valuable information.

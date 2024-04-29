@@ -1,0 +1,59 @@
+// Add your video title filters below
+/fortnite/i
+/fallout/i
+/rpg/i
+/jrpg/i
+/gaming/i
+/Top\s*\d+/i
+// Blocks: *2023*, *new*, *crazy*, *undetected*, ecc..
+/\*[a-zA-Z0-9]+\*/i
+
+// all the pipes that appeared more than 1 time in the text, whether they were sequential or not
+// Blocks "|hello|world|" and "|abc|def|ghi|", often used by scammers and videos with fradulent software
+/(?=(?:[^|]*\|){2,})(?:[^|]*\|)/i
+
+// same as before but for "/" , "#" and ","
+/(?=(?:[^/]*\/){2,})(?:[^/]*\/)/i
+/(?=(?:[^,]*\,){2,})(?:[^,]*\,)/i
+/(?=(?:[^#]*\#){2,})(?:[^#]*\#)/i
+
+// Ignorant or time wasting videos (generic)
+/(?=.*must watch)/i
+/(?=.*meditation)/i
+/(?=.*meditate)/i
+/(?=.*everyday hacks)/i
+/(?=.*food hacks)/i
+/(?=.*genius hack)/i
+/(?=.*genius hacks)/i
+/(?=.*genius tiktok)/i
+/(?=.*life hack)/i
+/(?=.*life hacks)/i
+/(?=.*life saving hacks)/i
+/(?=.*lifehack)/i
+/(?=.*lifehack,)/i
+/(?=.*lifehacks)/i
+/(?=.*lifehacks,)/i
+/(?=.*react to)/i
+/(?=.*reacts)/i
+/(?=.*123 go)/i
+/(?=.*123 go!)/i
+/(?=.*la la life)/i
+/(?=.*#short)/i
+/(?=.*eleven)/i
+/(?=.*in 2023)/i
+/(?=.*meme)/i
+/(?=.*memes)/i
+
+//  Clickbait
+/^(you won't believe what happens next|top [0-9]+ things you need to see|[0-9]+ shocking facts about|how to [0-9]+x your [0-9]+ in [0-9]+ easy steps|[0-9]+ reasons why [a-zA-Z0-9\s]+ is the best)$/i
+/(viral video)|(simple trick)|(watch until the end)|(over 10 million views)/i
+/\d+ (easy|simple|surprising|unexpected|best|clever|crazy|must-know|daily|ingenious) (ways|hacks|must-know|survival|cleaning|secret|solutions) (to|for|that|hacks|tips) [a-zA-Z ]+/i
+
+// Slop
+/uebermarginal/i
+/бэбэй/i
+/бэбс/i
+/булджать/i
+/реакция/i
+/minecraft/i
+/chat.*gpt/i
