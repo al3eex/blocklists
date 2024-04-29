@@ -16,11 +16,11 @@
 
 #### Channel ID
 
-Скопируйте **содержимое** (не ссылку) [этого file](https://raw.githubusercontent.com/al3eex/blocklists/main/BlockTube/blocktube-comprehensive-list.txt) и вставьте его в раздел "Идентификатор канала" в настройках BlockTube.
+Скопируйте **содержимое** (не ссылку) [этого файла](https://raw.githubusercontent.com/al3eex/blocklists/main/BlockTube/blocktube-comprehensive-list.txt) и вставьте его в раздел `Channel ID` в настройках BlockTube.
 
 #### Video Title
 
-Скопируйте **содержимое** (не ссылку) [этого file](https://raw.githubusercontent.com/al3eex/blocklists/main/BlockTube/blocktube-video-titles-list.txt) и вставьте его в раздел "Название видео" в настройках BlockTube.
+Скопируйте **содержимое** (не ссылку) [этого файла](https://raw.githubusercontent.com/al3eex/blocklists/main/BlockTube/blocktube-video-titles-list.txt) и вставьте его в раздел `Video Title` в настройках BlockTube.
 
 ## Что блокируется
 
