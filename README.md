@@ -1,6 +1,6 @@
 # blocklists
 
-## ДЛЯ ПЕРЕХОДА НА РУССКИЙ НАЖМИТЕ [ЭТУ ССЫЛКУ](https://github.com/al3eex/blocklists/blob/main/RU.md)
+## 🇷🇺🇷🇺🇷🇺 ДЛЯ ПЕРЕХОДА НА РУССКИЙ НАЖМИТЕ [ЭТУ ССЫЛКУ](https://github.com/al3eex/blocklists/blob/main/RU.md) 🇷🇺🇷🇺🇷🇺
 
 Personal blocklists for BlockTube, uBlacklist and websites in general (hosts).
 
