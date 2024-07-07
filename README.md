@@ -4,7 +4,7 @@
 
 Personal blocklists for BlockTube, uBlacklist and websites in general (hosts).
 
-Lists are focused primarly on Russian and English sides of the internet (in the future German and Spanish might be added, if you want your language represented best course of action would be to do a commit with it).
+Lists are focused primarly on Russian and English sides of the internet.
 
 **Still work in progress (feel free to contribute).**
 
